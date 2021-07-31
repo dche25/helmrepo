@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  webapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-31T17:52:08.359110124Z"
+    description: A Helm chart for Kubernetes
+    digest: cfe0e2a3f220ea434219f75667248d0e9f9a5af5d84d08710d59f564e6f9d3ac
+    name: webapp
+    type: application
+    urls:
+    - https://dche25.github.io/helmrepo/webapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-31T17:52:08.357343066Z"
